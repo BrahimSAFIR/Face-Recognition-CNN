@@ -1,1 +1,1 @@
-# reconissonce-facial
+# Face-Recognition-CNN
